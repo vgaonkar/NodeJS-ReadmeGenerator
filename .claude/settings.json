@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Agent(*)",
+      "Bash(*)",
+      "Read(*)",
+      "Write(*)",
+      "Edit(*)",
+      "Glob(*)",
+      "Grep(*)",
+      "Skill(*)",
+      "WebFetch(*)",
+      "WebSearch(*)",
+      "SendMessage(*)",
+      "TaskCreate(*)",
+      "TaskGet(*)",
+      "TaskList(*)",
+      "TaskUpdate(*)",
+      "TaskStop(*)",
+      "TaskOutput(*)",
+      "TeamCreate(*)",
+      "TeamDelete(*)",
+      "ToolSearch(*)",
+      "NotebookEdit(*)",
+      "EnterPlanMode(*)",
+      "ExitPlanMode(*)",
+      "EnterWorktree(*)",
+      "ExitWorktree(*)",
+      "CronCreate(*)",
+      "CronDelete(*)",
+      "CronList(*)",
+      "AskUserQuestion(*)",
+      "mcp__t__*",
+      "mcp__plugin_oh-my-claudecode_t__*",
+      "mcp__team__*",
+      "mcp__plugin_oh-my-claudecode_team__*"
+    ]
+  }
+}
